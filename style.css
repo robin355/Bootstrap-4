@@ -1,3 +1,16 @@
-h1 {
-    background-color: brown;
+.header-bg-color {
+    background-color: #FFF9F4;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.main-bg-color {
+    background-color: #E5E5E5;
+}
+
+img {
+    max-width: 100%;
 }
